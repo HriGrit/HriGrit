@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HriGrit
-- 👀 I’m interested in ... not in kpop
-- 🌱 I’m currently learning ... Heavnly Aura breathing thunder strike part 1
-- 💞️ I’m looking to collaborate on ... Breathing
-- 📫 How to reach me ... Deep Breathes
+- 👋 Hi, I’m @Ayush
+- 👀 I’m interested in ... Full Stack development and AI/ML
+- 🌱 I’m currently learning ... MERN Stack
+- 💞️ I’m looking to collaborate on ... MERN stack
+- 📫 How to reach me ... linkedin
 
 <!---
 HriGrit/HriGrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
