@@ -16,9 +16,6 @@ I'm a passionate software developer with a focus on web development, cloud compu
 - **Version Control**: Git, GitHub
 - **Others**: PostgreSQL, Redis, Firebase Authentication, Realtime Database
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HriGrit" alt="HriGrit" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HriGrit&show_icons=true&locale=en&layout=compact" alt="HriGrit" /></p>
 
