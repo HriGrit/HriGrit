@@ -21,7 +21,7 @@ I'm a passionate software developer with a focus on web development, cloud compu
 ### [Messenger Yushi](https://github.com/HriGrit/Yushi)
 A real-time, end-to-end encrypted messaging platform designed to enhance communication with a unique UI/UX. Developed with Firebase's suite of tools for scalability and security.
 
-### [Marofa](https://github.com/HriGrit/Marofa)
+### [Marofa](https://marofa-2279c.web.app/)
 Led a team to optimize the Marofa website, improving load times by 30% and enhancing SEO. Implemented advanced optimization techniques, reducing TTFB and improving user experience.
 
 ## 🌱 What I'm Learning
