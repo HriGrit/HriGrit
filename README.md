@@ -21,8 +21,6 @@ I'm a passionate software developer with a focus on web development, cloud compu
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HriGrit&show_icons=true&locale=en" alt="HriGrit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HriGrit&" alt="HriGrit" /></p>
-
 
 ## 📚 Projects
 
